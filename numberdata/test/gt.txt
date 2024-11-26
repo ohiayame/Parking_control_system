@@ -1,4 +1,3 @@
-images\image_46840.jpg	82두9568
 images\image_46841.jpg	82두9872
 images\image_46842.jpg	82두9872
 images\image_46843.jpg	82두9872
